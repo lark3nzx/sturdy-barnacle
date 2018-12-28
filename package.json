@@ -1,0 +1,19 @@
+{
+  "name": "programming",
+  "version": "1.0.0",
+  "description": "xzx",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lark3nzx/sturdy-barnacle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lark3nzx/sturdy-barnacle/issues"
+  },
+  "homepage": "https://github.com/lark3nzx/sturdy-barnacle#readme"
+}
