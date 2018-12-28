@@ -6,7 +6,7 @@ void main()
     printf("fzzzzzzzzzzzzzzzzff");
     printf("fzzccczzzzzzzzzzzzzzff");
     printf("fzzzzzzzzzzzzzzzzff");
-    printf("fzzzzzzzzzzzzzzzzff");
+    printf("fzzzzzzzzzzzcczzzzzff");
     printf("fzzzzzzzzcccczzzzzzzzff");
     printf("fzzzzzzzzzzzzzzzzff");
 }
